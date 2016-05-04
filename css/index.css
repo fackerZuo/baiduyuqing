@@ -722,6 +722,7 @@
     left: 0;
     right: 0;
     top:42%;
+    z-index: 999999999;
   }
 
 .two-lx{

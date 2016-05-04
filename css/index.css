@@ -737,11 +737,14 @@
 .two-img{
       top: 190px!important;
     right: -150px!important;
+    z-index: 99999;
 }
 .three-img{
   left: 100px!important;
+  z-index: 99999;
 }
 .four-img{
   left: 30px!important;
+  z-index: 99999;
 }
 }
